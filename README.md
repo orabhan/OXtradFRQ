@@ -1,0 +1,2 @@
+# OXtradFRQ
+Trading BOT
